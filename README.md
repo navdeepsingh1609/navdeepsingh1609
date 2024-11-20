@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepsingh1609&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepsingh1609" /> </p>
 
-- 🌱 I’m currently learning **Web Developement and Generative AI with LangChain**
+- 🌱 I’m currently learning:
+     <p>Web Developement</p>
+     <p>Generative AI with LangChain</p>
 
 - 📫 How to reach me **navdeepsingh1609@gmail.com**
 
