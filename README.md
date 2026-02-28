@@ -1,18 +1,52 @@
 <h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
-<h3 align="center">A Computer Science Student and Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepsingh1609&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepsingh1609" /> </p>
+<h3 align="center">AI Researcher | Systems Engineer | MS in Applied Computing @ UofT</h3>
 
-- 🌱 I’m currently learning:
-     <p>Web Developement</p>
-     <p>Generative AI with LangChain</p>
+<p align="center">
+  Bridging the gap between hardware optimization and cutting-edge deep learning. Previously engineered low-level systems at <b>NXP Semiconductors</b>, and currently an incoming <b>AI Research Intern at AMD</b>.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=navdeepsingh1609&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepsingh1609 views" /> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepsingh1609&show_icons=true&locale=en&layout=compact" alt="navdeepsingh1609" /></p>
+---
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeepsingh1609&show_icons=true&locale=en" alt="navdeepsingh1609" /></p>-->
+### 🔭 Current Focus & Research
+- **Computational Biology:** Developing deep learning and AI-first architectures for computational drug discovery and pharmacogenomics.
+- **Real-Time Computer Vision:** Designing lightweight distillation frameworks for image restoration on edge devices (MambaIR / UNet).
+- **Agentic Workflows:** Building multilingual LLM-driven agents paired with advanced audio models for automation in healthcare.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepsingh1609&" alt="navdeepsingh1609" /></p>
+---
 
+### 🛠️ Tech Stack & Tools
+
+**Machine Learning & AI** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Systems & Deployment** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Software & Databases** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navdeepsingh1609&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="navdeepsingh1609's GitHub stats" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepsingh1609&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="navdeepsingh1609's Streak" width="48%" />
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepsingh1609&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" width="60%" />
+</div> -->
