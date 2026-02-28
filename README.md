@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
-<h3 align="center">AI Researcher | Systems Engineer | MS in Applied Computing @ UofT</h3>
+<h1 align="center">Hi 👋🏻, I'm Navdeep Singh</h1>
+<h3 align="center">AI Researcher | MS in Applied Computing @ UofT</h3>
 
 <p align="center">
   Bridging the gap between hardware optimization and cutting-edge deep learning. Previously engineered low-level systems at <b>NXP Semiconductors</b>, and currently an incoming <b>AI Research Intern at AMD</b>.
