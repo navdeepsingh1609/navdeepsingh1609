@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher @ AMD | MS in Applied Computing @ UofT</h3>
 
 <p align="center">
-  Bridging the gap between hardware optimization and cutting-edge deep learning. Previously engineered low-level systems at <b>NXP Semiconductors</b>, and currently <b>AI Research Intern at AMD</b>.
+  Bridging the gap between hardware optimization and deep learning. Previously engineered low-level systems at <b>NXP Semiconductors</b>, and currently <b>AI Research Intern at AMD</b>.
 </p>
 
 ### 📫 Let's Connect
