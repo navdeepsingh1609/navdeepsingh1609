@@ -18,9 +18,9 @@
 ---
 
 ### 🔭 Current Focus & Research
-- **Computational Biology:** Developing deep learning and AI-first architectures for computational drug discovery and pharmacogenomics.
 - **Real-Time Computer Vision:** Designing lightweight distillation frameworks for image restoration on edge devices (MambaIR / UNet).
-- **Agentic Workflows:** Building multilingual LLM-driven agents paired with advanced audio models for automation in healthcare.
+- **Agentic Workflows:** a) Building system for GPU kernel optimization, b) Multilingual LLM-driven agents paired with advanced audio models for automation in healthcare.
+- **Computational Biology:** Developing deep learning and AI-first architectures for computational drug discovery and pharmacogenomics.
 
 ---
 
